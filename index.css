@@ -53,6 +53,7 @@ a {
     height: 300px;
     display: flex;
     margin-top: 70px;
+    margin-bottom: 100px;
     
 }
 .seg-parte{
@@ -91,8 +92,9 @@ a {
      align-items: center;
      width: 100%;
      height: 100%;
-     margin-top: 2em;
-     margin-bottom: 5em;
+     margin-top: 3em;
+     margin-bottom: 3em;
+      
      
 }
 .masinfocuadrado p{
@@ -117,4 +119,10 @@ a {
       padding-right: 1em;
        
 
+}
+.fondomasgrande {
+    background-color: rgb(68, 71, 70);
+    padding-bottom: 2em;
+    margin-bottom: 3em;
+    margin-top: 3em;
 }
