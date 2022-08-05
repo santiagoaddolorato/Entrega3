@@ -53,13 +53,19 @@ a {
     height: 300px;
     display: flex;
     margin-top: 70px;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
     
 }
 .seg-parte{
    
     width: 45%;
     justify-content: space-around;
+    margin-left: 20%;
+
+}
+.imagenfuego {
+    border-bottom: 5px solid black;
+     
 }
 .seg-parte h1{
     font-size: 3em;
@@ -94,6 +100,7 @@ a {
      height: 100%;
      margin-top: 3em;
      margin-bottom: 3em;
+     margin-left: 5%;
       
      
 }
